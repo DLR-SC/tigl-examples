@@ -1,0 +1,13 @@
+name: jupyter-rise
+channels:
+  - conda-forge
+  - dlr-sc
+dependencies:
+  - python=3.5
+  - tigl3
+  - numpy
+  - jupyter
+  - pythreejs
+  - rise
+  - pip:
+    - jupyter-contrib-nbextensions

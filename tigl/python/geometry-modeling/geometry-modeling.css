@@ -1,0 +1,15 @@
+.rise-enabled {
+    background-color: white !important;
+    font-size: 125% !important;
+    background-image: url('images/dlr_background_169.png');
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-origin: content-box;
+	background-attachment: fixed;
+    padding: 0px 0px 0px 0px;
+}
+
+#help_b {
+  opacity: 0.0;
+}

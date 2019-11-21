@@ -1,5 +1,7 @@
 # TiGL Examples
 
+![](https://raw.githubusercontent.com/DLR-SC/tigl/master/doc/images/tiglviewer-web.jpg)
+
 This repository is a collection of example files for TiXI, TiGL and CPACS.
 
  - **TiXI** is a fast and simple XML interface library.  
