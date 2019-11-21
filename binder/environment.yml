@@ -4,6 +4,7 @@ channels:
   - dlr-sc
 dependencies:
   - python=3.5
+  - pip
   - tigl3
   - numpy
   - jupyter
