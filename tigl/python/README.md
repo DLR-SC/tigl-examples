@@ -10,7 +10,7 @@ conda activate tigl
 To run the jupyter examples, some further dependencies must be met, which can be installed via
 
 ```bash
-conda install numpy jupyter rise pythreejs -c conda-forge
+conda install pip numpy jupyter rise pythreejs -c conda-forge
 pip install jupyter-contrib-nbextensions
 jupyter contrib nbextension install --user
 jupyter nbextension enable splitcell/splitcell
@@ -26,4 +26,7 @@ Using the CPACSCreator to generate an airplane from scratch and create an animat
 
 ### Geometry Modeling
 
-Using TiGL's internal geometry modeling algorithms for surface skinning and Gordon surface creation
+Using TiGL's internal geometry modeling algorithms for surface skinning and Gordon surface creation. Run the demo by pressing the button below:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DLR-SC/tigl-examples/master?filepath=tigl%2Fpython%2Fgeometry-modeling%2Fgeometry-modeling.ipynb)
+
