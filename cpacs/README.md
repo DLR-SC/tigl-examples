@@ -5,6 +5,7 @@ This folder contains some example CPACS files.
  - [Ariane 5](#ariane)
  - [Concorde](#concorde)
  - [D150 DLR research configuration](#d150)
+ - [Simple Test Case](#simpletest)
 
 ## Ariane 5
 <a name=ariane />
@@ -23,3 +24,9 @@ This folder contains some example CPACS files.
 
 ![](images/CPACS_30_D150.png)
 [CPACS_30_D150.xml](CPACS_30_D150.xml)
+
+## Simple Test Case
+<a name=simpletest />
+
+![](images/simpletest.cpacs.png)
+[simpletest.cpacs.xml](simpletest.cpacs.xml)
