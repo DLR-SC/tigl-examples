@@ -31,7 +31,7 @@ Please also checkout our [Contribution Guide](CONTRIBUTING.md).
 ### TiGL
 
   - Python
-    - [CPACSCreator Animation](tigl/python/README.md#cpacscrator-animation)
+    - [CPACSCreator Animation](tigl/python/README.md#cpacscreator-animation)
     - [Geometry Modeling](tigl/python/README.md#geometry-modeling) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DLR-SC/tigl-examples/master?filepath=tigl%2Fpython%2Fgeometry-modeling%2Fgeometry-modeling.ipynb)
     - [Internal API 1 - Basics](tigl/python/README.md#internal-api-1)  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DLR-SC/tigl-examples/master?filepath=tigl%2Fpython%2Finternal-api-1-basics.ipynb)
     - [Internal API 2 - Customization and Visualization](tigl/python/README.md#internal-api-2) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DLR-SC/tigl-examples/master?filepath=tigl%2Fpython%2Finternal-api-2-customization-visualization.ipynb)
