@@ -18,15 +18,23 @@ jupyter nbextension enable splitcell/splitcell
 
 ## Contents
 
-### CPACSCreator Animation
+ - [CPACSCreator Animation](#tigl-python-cpacscreator-animation)
+ - [Geometry Modeling](#tigl-python-cpacscreator-animation) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DLR-SC/tigl-examples/master?filepath=tigl%2Fpython%2Fgeometry-modeling%2Fgeometry-modeling.ipynb)
+
+## CPACSCreator Animation 
+<a name="tigl-python-cpacscreator-animation"/>
 
 Using the CPACSCreator to generate an airplane from scratch and create an animation from a sequence of cpacs configurations.
 
  - [cpacscreator-animation](cpacscreator-animation)
 
-### Geometry Modeling
+
+## Geometry Modeling
+<a name="tigl-python-geometry-modeling"/>
 
 Using TiGL's internal geometry modeling algorithms for surface skinning and Gordon surface creation. Run the demo by pressing the button below:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DLR-SC/tigl-examples/master?filepath=tigl%2Fpython%2Fgeometry-modeling%2Fgeometry-modeling.ipynb)
+
+ - [geometry-modeling](geometry-modleing)
 
