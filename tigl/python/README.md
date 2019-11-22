@@ -16,13 +16,15 @@ jupyter contrib nbextension install --user
 jupyter nbextension enable splitcell/splitcell
 ```
 
+Note that the jupyter examples can all be run interactively online using binder.
+
 ## Contents
 
- - [CPACSCreator Animation](#tigl-python-cpacscreator-animation)
- - [Geometry Modeling](#tigl-python-cpacscreator-animation) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DLR-SC/tigl-examples/master?filepath=tigl%2Fpython%2Fgeometry-modeling%2Fgeometry-modeling.ipynb)
+ - [CPACSCreator Animation](#cpacscreator-animation)
+ - [Geometry Modeling](#geometry-modeling) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DLR-SC/tigl-examples/master?filepath=tigl%2Fpython%2Fgeometry-modeling%2Fgeometry-modeling.ipynb)
 
 ## CPACSCreator Animation 
-<a name="tigl-python-cpacscreator-animation"/>
+<a name="cpacscreator-animation"/>
 
 Using the CPACSCreator to generate an airplane from scratch and create an animation from a sequence of cpacs configurations.
 
@@ -30,11 +32,11 @@ Using the CPACSCreator to generate an airplane from scratch and create an animat
 
 
 ## Geometry Modeling
-<a name="tigl-python-geometry-modeling"/>
+<a name="geometry-modeling"/>
 
 Using TiGL's internal geometry modeling algorithms for surface skinning and Gordon surface creation. Run the demo by pressing the button below:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DLR-SC/tigl-examples/master?filepath=tigl%2Fpython%2Fgeometry-modeling%2Fgeometry-modeling.ipynb)
 
- - [geometry-modeling](geometry-modleing)
+ - [geometry-modeling](geometry-modeling)
 
